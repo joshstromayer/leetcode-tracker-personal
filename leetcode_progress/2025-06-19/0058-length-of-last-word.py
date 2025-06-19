@@ -11,6 +11,4 @@ class Solution(object):
         for char in str[-1]:
             if char:
                 count+=1
-
         return count
-
